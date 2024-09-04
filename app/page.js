@@ -1,8 +1,8 @@
 import React from 'react'
-
+import { Hero } from './Components/Hero'
 const page = () => {
   return (
-    <div className='text-black text-2xl'>Zubair</div>
+    <Hero/>
   )
 }
 
