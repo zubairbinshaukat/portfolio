@@ -13,7 +13,7 @@ export function Hero() {
           <div className="sm:block hidden">
             <SparklesPreview />
           </div>
-          <div className='sm:hidden block'>
+          <div className='sm:hidden block '>
             <h2 className="text-7xl relative z-20 md:text-8xl lg:text-9xl font-bold text-center text-black dark:text-white font-sans tracking-tight">
               Zubair{' '}
               <div className="relative mx-auto inline-block w-max [filter:drop-shadow(0px_1px_3px_rgba(27,_37,_80,_0.14))]">
