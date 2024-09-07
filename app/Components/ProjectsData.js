@@ -52,7 +52,7 @@ const OpenCinema = () => {
   return (
     (<img
       src="https://ik.imagekit.io/xosswhicz/project1.png"
-      alt="opencinema.netlify.app"
+      alt="opencinema.netlify.app "
       width="1000"
       height="1000"
       className="object-cover object-left-top h-[80%]  md:h-[90%] absolute md:-bottom-10 bottom-5 inset-x-0 w-[90%] rounded-xl mx-auto" />)
