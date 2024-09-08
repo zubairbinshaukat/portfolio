@@ -5,7 +5,6 @@
 .newtons-cradle {
   --uib-size: 20rem;
   --uib-speed: 1.2s;
-  /* --uib-color: linear-gradient(to right, #8b5cf6, #a855f7, #ec4899); */
   position: relative;
   display: flex;
   align-items: center;
