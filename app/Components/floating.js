@@ -35,17 +35,6 @@ export function FloatingDockDemo() {
       ),
       href: "#",
     },
-    // {
-    //   title: "Aceternity UI",
-    //   icon: (
-    //     <Image
-    //       src="https://ik.imagekit.io/xosswhicz/logo-dark.png"
-    //       width={20}
-    //       height={20}
-    //       alt="Aceternity Logo" />
-    //   ),
-    //   href: "#",
-    // },
     {
       title: "FaceBook",
       icon: (
