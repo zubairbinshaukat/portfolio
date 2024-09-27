@@ -3,11 +3,9 @@ import { FloatingDock } from "@/components/ui/floating-dock";
 import {
   IconBrandGithub,
   IconBrandX,
-  IconExchange,
   IconBrandInstagram,
   IconBrandLinkedin,
   IconBrandFacebook,
-  IconTerminal2,
 } from "@tabler/icons-react";
 // import Image from "next/image";
 
@@ -18,29 +16,35 @@ export function FloatingDockDemo() {
       icon: (
         <IconBrandGithub className="h-full w-full text-neutral-500 dark:text-neutral-300" />
       ),
-      href: "#",
+      href: "https://github.com/zubairbinshaukat",
     },
-
     {
       title: "Linked In",
       icon: (
         <IconBrandLinkedin className="h-full w-full text-neutral-500 dark:text-neutral-300" />
       ),
-      href: "#",
+      href: "https://www.linkedin.com/in/zubairbinshaukat",
     },
     {
       title: "Instagram",
       icon: (
         <IconBrandInstagram className="h-full w-full text-neutral-500 dark:text-neutral-300" />
       ),
-      href: "#",
+      href: "https://www.instagram.com/zubairbinshaukat",
     },
     {
       title: "FaceBook",
       icon: (
         <IconBrandFacebook className="h-full w-full text-neutral-500 dark:text-neutral-300" />
       ),
-      href: "#",
+      href: "https://www.facebook.com/zubairbinshaukat0",
+    },
+    {
+      title: "Twitter",
+      icon: (
+        <IconBrandX className="h-full w-full text-neutral-500 dark:text-neutral-300" />
+      ),
+      href: "https://x.com/zubairbinshaukt",
     },
   ];
   return (

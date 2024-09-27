@@ -42,7 +42,7 @@ export function ProjectData() {
 
   return (
     (<div
-      className="h-[20rem] md:h-[40rem] [perspective:1000px] relative b flex flex-col md:maxw-7xl max-w-5xl mx-auto w-full  items-start justify-start pt-20">
+      className="h-[30rem] lg:h-[55rem] [perspective:1000px] relative b flex flex-col md:maxw-7xl max-w-5xl mx-auto w-full  items-start justify-start pt-20">
       <Tabs tabs={tabs} />
     </div>)
   );
